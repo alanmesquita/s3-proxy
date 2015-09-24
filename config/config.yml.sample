@@ -1,3 +1,10 @@
 development:
-  batman:
+  application:
     token: 'teste'
+  s3:
+    old_bucket_videos: 'test_old_bucket_videos'
+    old_bucket_images: 'test_old_bucket_images'
+    new_bucket: 'test_new_bucket'
+    key: 'ASDFGHJKLQWER123456'
+    secret: 'A32asdAfrdsdssf/A32asdAfrdsdssf'
+    region: 'us-east-1'
