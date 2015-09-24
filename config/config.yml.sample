@@ -1,4 +1,7 @@
 development:
+  api:
+    uri: 'http://api.alan.com'
+    api_key: '78sa89das6dasdasd3asd65as777wqretwysf'
   application:
     token: 'teste'
   s3:
